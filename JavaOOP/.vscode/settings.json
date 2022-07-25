@@ -2,6 +2,7 @@
     "java.project.sourcePaths": [
         "lessonFour",
         "lessonFive",
-        "lessonSix"
+        "lessonSix",
+        "CoreIdeas"
     ]
 }
