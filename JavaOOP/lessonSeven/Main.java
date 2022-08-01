@@ -1,8 +1,5 @@
 public class Main {
-    public static void main(String[] args) {
-
-
-
+    public static void main(String[] args)
         
         Board d = new Board(15);
         Board d1 = new Board(15);

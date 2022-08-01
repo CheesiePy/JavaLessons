@@ -12,8 +12,8 @@ public class Main extends Object{  // Main is the class that runs the program
 
         Pet[] pets = {moorcha, moonCake, poochky}; // create an array of numbers
         // Object[] objects = {moorcha, moonCake, poochky , 21 , "blablba"}; // create an array of numbers 
-        System.out.println(poochky.makeSound() + " " + moonCake.makeSound() + " " + moorcha.makeSound()+ " " + rufus.makeSound()); // print the sound of the cat objects
-        
+        // System.out.println(poochky.makeSound() + " " + moonCake.makeSound() + " " + moorcha.makeSound()+ " " + rufus.makeSound()); // print the sound of the cat objects
+        System.out.println(poochky.hashCode());
     }
 }  
 

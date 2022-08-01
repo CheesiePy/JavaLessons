@@ -23,8 +23,8 @@ public class Collections {
 
         
 
-        System.out.println(hs.contains("JavaScript")); // contains return true or false if the hs contains the string "JavaScript"  
-        System.out.println(hs.isEmpty()); // contains return true if the hs is empty 
+        // System.out.println(hs.contains("JavaScript")); // contains return true or false if the hs contains the string "JavaScript"  
+        // System.out.println(hs.isEmpty()); // contains return true if the hs is empty 
         System.out.println(hs.hashCode()); 
 
 
